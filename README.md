@@ -7,6 +7,7 @@
 [LinkedIn](https://www.linkedin.com/in/zishanmira) • [Twitter](https://x.com/zishanmira) • [Email](mailto:zishanmira16@gmail.com)
 
 </div>
+
 ---
 
 #### 🔷 my goto stack
