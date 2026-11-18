@@ -1,11 +1,12 @@
+<div align="center">
+
 # Hi, I'm Zishan 👋
 
-### Full-Stack Developer | Building Scalable Web Applications
+### An aspiring Software Developer turning ideas into code from scratch.
 
-An aspiring Software Developer turning ideas into code from scratch.
+[LinkedIn](https://www.linkedin.com/in/zishanmira) • [Twitter](https://x.com/zishanmira) • [Email](mailto:zishanmira16@gmail.com)
 
-[linkedIn](https://www.linkedin.com/in/zishanmira) • [twitter](https://x.com/zishanmira) • [email](mailto:zishanmira16@gmail.com)
-
+</div>
 ---
 
 #### 🔷 my goto stack
@@ -21,12 +22,6 @@ An aspiring Software Developer turning ideas into code from scratch.
 
 ---
 
-### 🔷 building from zero
-
-I build from zero. Whether it's frontend interfaces, backend systems, full-stack applications, or AI-powered experiences, I enjoy working across the entire development lifecycle. From designing intuitive user interfaces to architecting APIs, managing databases, and deploying applications, I focus on building practical solutions that solve real-world problems.
-
-I care about writing clean, maintainable code, understanding what's happening under the hood, and turning ideas into products that people can actually use.
-
 #### 🔷 currently exploring
 
 - **AI/ML systems:** Integrating LLMs into production applications, experimenting with AI APIs, and building intelligent user experiences.
@@ -35,4 +30,4 @@ I care about writing clean, maintainable code, understanding what's happening un
 
 ---
 
-![](https://komarev.com/ghpvc/?username=zisshhh&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=zisshhh&color=B19CD9&style=for-the-badge)
