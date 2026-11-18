@@ -1,12 +1,16 @@
 <div align="center">
 
-# Hi, I'm Zishan 👋
+<h1>Hi, I'm Zishan 👋</h1>
 
-### An aspiring Software Developer turning ideas into code from scratch.
+<hr>
+
+<h3>An aspiring Software Developer turning ideas into code from scratch.</h3>
 
 [LinkedIn](https://www.linkedin.com/in/zishanmira) • [Twitter](https://x.com/zishanmira) • [Email](mailto:zishanmira16@gmail.com)
 
 </div>
+
+<hr>
 
 ---
 
@@ -33,6 +37,6 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=zisshhh&color=800080&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=zisshhh&label=Profile%20views&color=9B4DE0&style=flat)
 
 </div>
