@@ -31,4 +31,8 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=zisshhh&color=B19CD9&style=for-the-badge)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=zisshhh&color=800080&style=for-the-badge)
+
+</div>
