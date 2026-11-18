@@ -2,15 +2,11 @@
 
 <h1>Hi, I'm Zishan 👋</h1>
 
-<hr>
-
 <h3>An aspiring Software Developer turning ideas into code from scratch.</h3>
 
 [LinkedIn](https://www.linkedin.com/in/zishanmira) • [Twitter](https://x.com/zishanmira) • [Email](mailto:zishanmira16@gmail.com)
 
 </div>
-
-<hr>
 
 ---
 
