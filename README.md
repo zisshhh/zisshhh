@@ -1,5 +1,4 @@
 <div align="center">
-
 <h1>Hi, I'm Zishan 👋</h1>
 
 <h3>An aspiring Software Developer turning ideas into code from scratch.</h3>
